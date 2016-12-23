@@ -5,7 +5,7 @@ This middleware package adds attributes to your request object that describe the
 
 This project was forked from [django-minidetector](https://github.com/remohammadi/django-minidetector), and modified for PHP.
 
-The following is currently added to the request:
+The following is added to the request:
 
 Simple Device
 -------------
