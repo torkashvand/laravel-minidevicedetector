@@ -1,0 +1,27 @@
+{
+  "name": "torkashvand/laravel-minidevicedetector",
+  "description": "A middleware that adds attributes to your request object that describe the users browser. This will let you fine tune the templates or code to use based on the traits of the browser.",
+  "keywords": [
+    "torkashvand",
+    "laravel-minidevicedetector",
+    "middleware",
+    "devicedetector",
+    "laravel"
+  ],
+  "homepage": "https://github.com/torkashvand/laravel-minidevicedetector",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammad Torkashvand",
+      "email": "m.torkashvand2009@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Torkashvand\\MiniDeviceDetector\\": "src"
+    }
+  }
+}
