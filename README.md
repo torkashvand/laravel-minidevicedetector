@@ -3,7 +3,7 @@ About
 
 This middleware package adds attributes to your request object that describe the users browser. This will let you fine tune the templates or code to use based on the traits of the browser.
 
-This project was forked from [django-minidetector](https://github.com/remohammadi/django-minidetector), and modified for PHP.
+This project has forked from [django-minidetector](https://github.com/remohammadi/django-minidetector), and modified for PHP.
 
 The following is added to the request:
 
